@@ -1,4 +1,4 @@
-# DevHelper-Bot - Bot para Discord
+# DevHelper - Bot para Discord
 
 <!--  ![Imagem do Bot](link_para_imagem.png) Se você tiver uma imagem relacionada ao bot, adicione aqui -->
 
